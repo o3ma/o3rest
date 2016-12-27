@@ -1,3 +1,3 @@
 # o3rest
 
-REST component of https://github.com/o3ma/o3
+REST component of [o3](https://github.com/o3ma/o3)
