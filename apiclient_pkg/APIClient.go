@@ -6,7 +6,7 @@
 
 package apiclient_pkg
 
-import "gitlab.sva.tuhh.de/safs1103/o3rest/models_pkg"
+import "github.com/o3ma/o3rest/models_pkg"
 
 /*
  * Interface for the APICLIENT_IMPL

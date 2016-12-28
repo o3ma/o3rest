@@ -9,11 +9,9 @@ import (
 	"encoding/json"
 
 	"github.com/apimatic/unirest-go"
-	"gitlab.sva.tuhh.de/safs1103/o3rest"
-
-	"gitlab.sva.tuhh.de/safs1103/o3rest/apihelper_pkg"
-
-	"gitlab.sva.tuhh.de/safs1103/o3rest/models_pkg"
+	"github.com/o3ma/o3rest"
+	"github.com/o3ma/o3rest/apihelper_pkg"
+	"github.com/o3ma/o3rest/models_pkg"
 )
 
 /*
