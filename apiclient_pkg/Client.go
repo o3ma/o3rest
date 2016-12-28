@@ -8,10 +8,10 @@ package apiclient_pkg
 import (
 	"encoding/json"
 
-	"github.com/apimatic/unirest-go"
 	"github.com/o3ma/o3rest"
 	"github.com/o3ma/o3rest/apihelper_pkg"
 	"github.com/o3ma/o3rest/models_pkg"
+	"github.com/o3ma/unirest-go"
 )
 
 /*
