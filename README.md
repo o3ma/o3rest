@@ -2,4 +2,4 @@
 
 # o3rest
 
-REST component of [o3](https://github.com/o3ma/o3). You won't need to interact with this package, everything is wrapped in o3.
+REST component of [o3](https://github.com/o3ma/o3). This is auto-generated code. You won't need to interact with this package, everything is wrapped in o3.
