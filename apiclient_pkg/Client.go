@@ -43,7 +43,7 @@ func (me *APICLIENT_IMPL) IdentityCheck(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
@@ -101,7 +101,7 @@ func (me *APICLIENT_IMPL) IdentityMatch(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
@@ -159,7 +159,7 @@ func (me *APICLIENT_IMPL) IdentityLinkEmail(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
@@ -217,7 +217,7 @@ func (me *APICLIENT_IMPL) IdentityCheckRevocationKey(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
@@ -275,7 +275,7 @@ func (me *APICLIENT_IMPL) IdentityCheckRevocationKeyStage2(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
@@ -333,7 +333,7 @@ func (me *APICLIENT_IMPL) IdentityLinkEmailStage2(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
@@ -391,7 +391,7 @@ func (me *APICLIENT_IMPL) IdentityCreate(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
@@ -449,7 +449,7 @@ func (me *APICLIENT_IMPL) IdentityCreateStage2(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
@@ -507,7 +507,7 @@ func (me *APICLIENT_IMPL) IdentitySetFeaturelevel(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
@@ -565,7 +565,7 @@ func (me *APICLIENT_IMPL) IdentitySetFeaturelevelStage2(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
@@ -623,7 +623,7 @@ func (me *APICLIENT_IMPL) IdentityMatchStage2(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
@@ -690,7 +690,7 @@ func (me *APICLIENT_IMPL) IdentityById(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent": "Threema/2.8",
+		"user-agent": "Threema/4.33A",
 		"accept":     "application/json",
 	}
 
@@ -747,7 +747,7 @@ func (me *APICLIENT_IMPL) IdentitySetRevocationKey(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
@@ -805,7 +805,7 @@ func (me *APICLIENT_IMPL) IdentitySetRevocationKeyStage2(
 
 	//prepare headers for the outgoing request
 	headers := map[string]interface{}{
-		"user-agent":   "Threema/2.8",
+		"user-agent":   "Threema/4.33A",
 		"accept":       "application/json",
 		"content-type": "application/json; charset=utf-8",
 	}
