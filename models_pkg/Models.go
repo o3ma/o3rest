@@ -127,6 +127,8 @@ type CreateStage2Request struct {
     PublicKey       *string         `json:"publicKey,omitempty" form:"publicKey,omitempty"` //TODO: Write general description for this field
     Response        *string         `json:"response,omitempty" form:"response,omitempty"` //TODO: Write general description for this field
     Token           *string         `json:"token,omitempty" form:"token,omitempty"` //TODO: Write general description for this field
+    DeviceId        *string         `json:"deviceId,omitempty" form:"deviceId,omitempty"`
+    LicenseKey      *string         `json:"licenseKey,omitempty" form:"licenseKey,omitempty"`
 }
 
 /*
